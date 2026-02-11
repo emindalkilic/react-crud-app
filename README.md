@@ -19,8 +19,6 @@ Bu proje, modern web geliştirme standartları takip edilerek React, Vite ve Tai
 
 ## 📁 Proje Yapısı
 
-Hocanın yönergesine uygun olarak aşağıdaki klasör yapısı oluşturulmuştur:
-
 ```text
 src/
 ├── Components/    # Reusable UI Bileşenleri (UserCard, UserForm, UserList)
@@ -32,7 +30,7 @@ src/
 
 ## 🛠️ Kurulum ve Çalıştırma
 
-1. Bağımlılıkları yükleyin:
+1. Gerekli node.js uygulamasını yükleyin:
    ```bash
    npm install
    ```
@@ -47,9 +45,9 @@ src/
    npm run build
    ```
 
-## 🌐 Yayına Alma (Netlify)
+## 🌐 Netlify
 
-Bu proje Netlify ile kolayca yayına alınabilir. `npm run build` komutu ile oluşan `dist` klasörünü Netlify'a yükleyebilir veya GitHub entegrasyonu ile otomatik dağıtım kurabilirsiniz.
+
 
 ---
-*Geliştirici: 2026 Web Geliştirme Katılımcısı*
+*Geliştirici: Emin Dalkılıç*
