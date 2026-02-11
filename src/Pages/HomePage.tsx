@@ -90,7 +90,7 @@ export const HomePage = () => {
                         Vite & <span className="text-indigo-600">React</span> CRUD
                     </h1>
                     <p className="text-lg text-gray-500 font-medium max-w-2xl mx-auto leading-relaxed">
-                        Modern Javascript araçları ile geliştirilmiş, iki sütunlu ve LocalStorage destekli kullanıcı yönetim sistemi.
+                        Modern Javascript araçları ile geliştirilmiş ve LocalStorage destekli kullanıcı yönetim sistemi.
                     </p>
                 </header>
 
