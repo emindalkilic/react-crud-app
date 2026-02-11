@@ -47,7 +47,7 @@ src/
 
 ## 🌐 Netlify
 
-
+https://emin-react-crud-app.netlify.app/
 
 ---
 *Geliştirici: Emin Dalkılıç*
